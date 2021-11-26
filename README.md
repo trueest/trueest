@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @trueest
+- 👀 I’m interested in ... Learning code and beginning my CS journey...
+- 🌱 I’m currently learning ... Python 3.0!
+- 💞️ I’m looking to collaborate on ... Anything that makes sense to me.
+- 📫 How to reach me ... Messaging on here I suppose would work!
